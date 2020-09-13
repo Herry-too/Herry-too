@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, 这里是Herry 👋
+
+- Work in progress...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herry-too&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Herry-too/Herry-too** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
