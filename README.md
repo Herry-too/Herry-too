@@ -4,7 +4,6 @@
 - Java技能点积攒中...
 - commit少是因为个人项目使用自己的 git 服务器（
 - 努力做更好的自己
-- 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herry-too&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
